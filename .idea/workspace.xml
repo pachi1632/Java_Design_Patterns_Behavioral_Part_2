@@ -5,30 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba09a202-e699-4bc7-b9a4-731e53ebe607" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/MainStrategyPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/PaymentMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/HighState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/HighState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/LowState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/LowState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/MediumState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/MediumState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/Fan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/HighState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/LowState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/MediumState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/practice/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2aH5wJUvTrMkld5mezPCCmFO4Fd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,9 +38,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainStrategyPractice">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="strategy-pattern-exercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.Main" />
       <module name="state-pattern-exercise" />
@@ -53,8 +66,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainStrategyPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.MainStrategyPractice" />
+      <module name="strategy-pattern-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainStrategyPractice" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
