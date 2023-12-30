@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ex_Files_Java_Design_Patterns_Behavioral_Part_2.iml" filepath="$PROJECT_DIR$/.idea/Ex_Files_Java_Design_Patterns_Behavioral_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch01/01_02/begin/observer-pattern-example/observer-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch01/01_02/begin/observer-pattern-example/observer-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch01/01_03/end/observer-pattern-example/observer-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch01/01_03/end/observer-pattern-example/observer-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch01/01_04/exercise/observer-pattern-exercise/observer-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch01/01_04/exercise/observer-pattern-exercise/observer-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch01/01_05/solution/observer-pattern-exercise/observer-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch01/01_05/solution/observer-pattern-exercise/observer-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_02/begin/state-pattern-example/state-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_02/begin/state-pattern-example/state-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_03/end/state-pattern-example/state-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_03/end/state-pattern-example/state-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_04/exercise/state-pattern-exercise/state-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_04/exercise/state-pattern-exercise/state-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch02/02_05/solution/state-pattern-exercise/state-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch02/02_05/solution/state-pattern-exercise/state-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_02/end/strategy-pattern-example/strategy-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_02/end/strategy-pattern-example/strategy-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_03/end/strategy-pattern-example/strategy-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_03/end/strategy-pattern-example/strategy-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_04/exercise/strategy-pattern-exercise/strategy-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_04/exercise/strategy-pattern-exercise/strategy-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution_with_java_8_features/strategy-pattern-exercise/strategy-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution_with_java_8_features/strategy-pattern-exercise/strategy-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution_without_java_8_features/strategy-pattern-exercise/strategy-pattern-exercise (2).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch03/03_05/solution_without_java_8_features/strategy-pattern-exercise/strategy-pattern-exercise (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_02/end/template-method-pattern-example/template-method-pattern-example.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_02/end/template-method-pattern-example/template-method-pattern-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_02/begin/template-method-pattern-example/template-method-pattern-example (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_02/begin/template-method-pattern-example/template-method-pattern-example (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_03/exercise/template-method-pattern-exercise/template-method-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_03/exercise/template-method-pattern-exercise/template-method-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch04/04_04/solution/template-method-pattern-exercise/template-method-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch04/04_04/solution/template-method-pattern-exercise/template-method-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_02/end/visitor-pattern-example/visitor-pattern-exercise.iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_02/end/visitor-pattern-example/visitor-pattern-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_02/begin/visitor-pattern-example/visitor-pattern-exercise (1).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_02/begin/visitor-pattern-example/visitor-pattern-exercise (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_03/end/visitor-pattern-example/visitor-pattern-exercise (2).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_03/end/visitor-pattern-example/visitor-pattern-exercise (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_04/exercise/visitor-pattern-exercise/visitor-pattern-exercise (3).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_04/exercise/visitor-pattern-exercise/visitor-pattern-exercise (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise Files/Ch05/05_05/solution/visitor-pattern-exercise/visitor-pattern-exercise (4).iml" filepath="$PROJECT_DIR$/Exercise Files/Ch05/05_05/solution/visitor-pattern-exercise/visitor-pattern-exercise (4).iml" />
+    </modules>
+  </component>
+</project>

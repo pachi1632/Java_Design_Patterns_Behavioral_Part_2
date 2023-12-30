@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="visitor-pattern-exercise (4)" />
+        <module name="strategy-pattern-example" />
+        <module name="visitor-pattern-exercise (2)" />
+        <module name="template-method-pattern-exercise (1)" />
+        <module name="state-pattern-example" />
+        <module name="observer-pattern-exercise (1)" />
+        <module name="visitor-pattern-exercise (3)" />
+        <module name="visitor-pattern-exercise (1)" />
+        <module name="observer-pattern-example (1)" />
+        <module name="state-pattern-exercise (1)" />
+        <module name="observer-pattern-example" />
+        <module name="state-pattern-exercise" />
+        <module name="template-method-pattern-example (1)" />
+        <module name="observer-pattern-exercise" />
+        <module name="strategy-pattern-exercise (2)" />
+        <module name="strategy-pattern-example (1)" />
+        <module name="strategy-pattern-exercise (1)" />
+        <module name="template-method-pattern-example" />
+        <module name="strategy-pattern-exercise" />
+        <module name="visitor-pattern-exercise" />
+        <module name="state-pattern-example (1)" />
+        <module name="template-method-pattern-exercise" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="observer-pattern-example" target="1.8" />
+      <module name="observer-pattern-example (1)" target="1.8" />
+      <module name="observer-pattern-exercise" target="1.8" />
+      <module name="observer-pattern-exercise (1)" target="1.8" />
+      <module name="state-pattern-example" target="1.8" />
+      <module name="state-pattern-example (1)" target="1.8" />
+      <module name="state-pattern-exercise" target="1.8" />
+      <module name="state-pattern-exercise (1)" target="1.8" />
+      <module name="strategy-pattern-example" target="1.8" />
+      <module name="strategy-pattern-example (1)" target="1.8" />
+      <module name="strategy-pattern-exercise" target="1.8" />
+      <module name="strategy-pattern-exercise (1)" target="1.8" />
+      <module name="strategy-pattern-exercise (2)" target="1.8" />
+      <module name="template-method-pattern-example" target="1.8" />
+      <module name="template-method-pattern-example (1)" target="1.8" />
+      <module name="template-method-pattern-exercise" target="1.8" />
+      <module name="template-method-pattern-exercise (1)" target="1.8" />
+      <module name="visitor-pattern-exercise" target="1.8" />
+      <module name="visitor-pattern-exercise (1)" target="1.8" />
+      <module name="visitor-pattern-exercise (2)" target="1.8" />
+      <module name="visitor-pattern-exercise (3)" target="1.8" />
+      <module name="visitor-pattern-exercise (4)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
