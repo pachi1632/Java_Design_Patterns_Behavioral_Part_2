@@ -1,4 +1,4 @@
-package exercise.statepatternexercise.src.main.java.practice;
+package practice;
 
 public interface State {
     void turnUp(Fan fan);

@@ -1,7 +1,5 @@
 package practice;
 
-import exercise.statepatternexercise.src.main.java.practice.Fan;
-
 public class Main {
 
   public static void main(String[] args) {

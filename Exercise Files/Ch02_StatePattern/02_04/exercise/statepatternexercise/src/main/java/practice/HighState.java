@@ -1,4 +1,4 @@
-package exercise.statepatternexercise.src.main.java.practice;
+package practice;
 
 public class HighState implements State{
     @Override

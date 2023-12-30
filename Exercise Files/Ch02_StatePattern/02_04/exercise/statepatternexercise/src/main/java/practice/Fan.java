@@ -1,4 +1,6 @@
-package exercise.statepatternexercise.src.main.java.practice;
+package practice;
+
+
 public class Fan {
 
   private State state = new LowState();

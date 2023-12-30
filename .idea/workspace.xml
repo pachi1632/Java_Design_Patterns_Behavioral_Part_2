@@ -5,37 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba09a202-e699-4bc7-b9a4-731e53ebe607" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/HighState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/LowState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/MediumState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/State.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ex_Files_Java_Design_Patterns_Behavioral_Part_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/.idea/$CACHE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/.idea/$CACHE_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/src/main/java/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/state-pattern-exercise/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch04_TemplateMethodPattern/04_02/begin/template-method-pattern-example/template-method-pattern-example (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch04_TemplateMethodPattern/04_02/end/template-method-pattern-example/template-method-pattern-example.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch04_TemplateMethodPattern/04_03/exercise/template-method-pattern-exercise/template-method-pattern-exercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch04_TemplateMethodPattern/04_04/solution/template-method-pattern-exercise/template-method-pattern-exercise (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch05_VisitorPattern/05_02/begin/visitor-pattern-example/visitor-pattern-exercise (1).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch05_VisitorPattern/05_02/end/visitor-pattern-example/visitor-pattern-exercise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch05_VisitorPattern/05_03/end/visitor-pattern-example/visitor-pattern-exercise (2).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch05_VisitorPattern/05_04/exercise/visitor-pattern-exercise/visitor-pattern-exercise (3).iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch05_VisitorPattern/05_05/solution/visitor-pattern-exercise/visitor-pattern-exercise (4).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/HighState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/HighState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/LowState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/LowState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/MediumState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/MediumState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/src/main/java/practice/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/HighState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/LowState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/MediumState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/exercise/statepatternexercise/src/main/java/practice/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch02_StatePattern/02_04/exercise/statepatternexercise/target/classes/practice/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
