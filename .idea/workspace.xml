@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba09a202-e699-4bc7-b9a4-731e53ebe607" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/MainStrategyPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/PaymentMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ba09a202-e699-4bc7-b9a4-731e53ebe607" name="Default Changelist" comment="03-04 Practice">
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/MainStrategyPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/MainStrategyPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/Ch03_StrategyPattern/03_04/exercise/strategy-pattern-exercise/src/main/java/practice/PaymentMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703962902460</updated>
     </task>
+    <task id="LOCAL-00001" summary="03-04 Practice">
+      <created>1703968767753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703968767755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="03-04 Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="03-04 Practice" />
   </component>
 </project>
